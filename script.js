@@ -36,6 +36,3 @@ button.addEventListener('click', celsiusToFahrenheitOrKelvin);
 
 // Chama a função 'alteraBotao' a partir da mudança de seleção da temperatura
 temperaturaSelecionada.addEventListener('change', alteraBotao);
-
-
-
